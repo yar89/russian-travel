@@ -17,10 +17,10 @@
     background-color: #2A2C2F;
     opacity: 0.3;
     transition: .3s linear;
-  }
+}
   
 
-  .cover:hover::before {
+.cover:hover::before {
     opacity: 0.8;
 }
   
